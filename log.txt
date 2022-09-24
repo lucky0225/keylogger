@@ -1,1 +1,1 @@
-'d''f''g''h''d''f''g''h''d''f''g''h'Key.enterKey.backspaceKey.backspace
+Key.spaceKey.spaceKey.spaceKey.spaceKey.backspaceKey.backspaceKey.backspace
